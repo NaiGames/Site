@@ -313,12 +313,12 @@ footer{
     }
 
     .container {       
-        width: 90%;
+        width: 100%;
     }
 
     video {
         height: auto;
-        width: 100%;
+        width: 80%;
         max-width: 540px;
     }
     /* Clientes */

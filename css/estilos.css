@@ -313,10 +313,11 @@ footer{
     }
 
     .container {       
-        width: 100%;
+        width: 50%;
     }
 
     video {
+        justify-content: center;
         height: auto;
         width: 80%;
         max-width: 540px;

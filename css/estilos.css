@@ -312,16 +312,6 @@ footer{
         width: 44%;
     }
 
-    .container {       
-        width: 50%;
-    }
-
-    video {
-        justify-content: center;
-        height: auto;
-        width: 80%;
-        max-width: 540px;
-    }
     /* Clientes */
 
     .cards{

@@ -312,11 +312,8 @@ footer{
         width: 44%;
     }
 
-    .container {
-        justify-content: center;
+    .container {       
         width: 100%;
-        margin: auto;
-        overflow: hidden;
     }
 
     video {

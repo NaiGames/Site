@@ -317,8 +317,9 @@ footer{
     }
 
     video {
-        height: auto ;
-        width: 100% ;
+        height: auto;
+        width: 100%;
+        max-width: 540px;
     }
     /* Clientes */
 

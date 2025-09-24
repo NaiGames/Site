@@ -436,13 +436,14 @@ footer{
 
     .link-pp {
   text-decoration: none;
-  color: #0073e6;
+  color: #708090;
   font-weight: bold;
   transition: color 0.3s ease;
 }
 .link-pp:hover {
-  color: #ff6600;
+  color: #556070;
 }
 
 
 }
+
